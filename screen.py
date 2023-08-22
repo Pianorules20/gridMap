@@ -601,38 +601,57 @@ class Pix():
     x81y24 = Pixel(81, 24, spacer); x82y24 = Pixel(82, 24, spacer); x83y24 = Pixel(83, 24, spacer); x84y24 = Pixel(84, 24, spacer); x85y24 - Pixel(85, 24, spacer);
     x86y24 = Pixel(86, 24, spacer); x87y24 = Pixel(87, 24, spacer); x88y24 = Pixel(88, 24, spacer); x89y24 = Pixel(89, 24, spacer); x90y24 = Pixel(90, 24, spacer);
     x91y24 = Pixel(91, 24, spacer); x92y24 = Pixel(92, 24, spacer); x93y24 = Pixel(93, 24, spacer); x94y24 = Pixel(94, 24, spacer); x95y24 = Pixel(95, 24, spacer);
-    x96y24 = Pixel(96, 24, spacer); x97y24 = Pixel(97, 24, spacer); x98y24 = Pixel(98, 24, spacer); x99y24 = Pixel(99, 24, spacer); x100y24 = Pixel
-x1y29 = Pixel(1, 29, wall); x2y29 = Pixel(2, 29, spacer); x3y29 = Pixel(3, 29, spacer); x4y29 = Pixel(4, 29, spacer); x5y29 = Pixel(5, 29, spacer)
-x6y29 = Pixel(6, 29, spacer); x7y29 = Pixel(7, 29, spacer); x8y29 = Pixel(8, 29, spacer); x9y29 = Pixel(9, 29, spacer); x10y29 = Pixel(10, 29, spacer);
-x11y29 = Pixel(11, 29, spacer); x12y29 = Pixel(12, 29, spacer); x13y29 = Pixel(); x14y29 = Pixel(14, 29, spacer); x15y29 = Pixel(15, 29, spacer);
-x16y29 = Pixel(16, 29, spacer); x17y29 = Pixel(16, 29, spacer); x18y29 = Pixel(18, 29, spacer); x19y29 = Pixel(19, 29, spacer); x20y29 = PIxel(20, 29, spacer);
-x21y29 = Pixel(21, 29, spacer); x22y29 = Pixel(22, 29, spacer); x23y29 = Pixel(23, 29, spacer); x24y29 = Pixel(24, 29, spacer); x25y29 = Pixel(25, 29, spacer);
-x26y29 = Pixel(26, 29, spacer); x27y29 = Pixel(27, 29, spacer); x28y29 = Pixel(28, 29, spacer); x29y29 = Pixel(29, 29, spacer); x30y29= P
+    x96y24 = Pixel(96, 24, spacer); x97y24 = Pixel(97, 24, spacer); x98y24 = Pixel(98, 24, spacer); x99y24 = Pixel(99, 24, spacer); x100y24 = Pixel(100, 24, spacer);
+    x101y24 = Pixel(101, 24, spacer); x102y24 = Pixel(102, 24, spacer); x103
 
-x1y30 = Pixel(1, 30, wall); x2y30 = Pixel(2, 30, spacer); x3y30 = Pixel(3, 30, spacer); x4y30 = Pixel(4, 30, spacer); x5y30 = Pixel(5, 30, spacer); 
-x6y30 = Pixel(6, 30, spacer); x7y30 = Pixel(7, 30, spacer); x8y30 = Pixel(8, 30, spacer); x9y30 = Pixel(9, 30, spacer); x10y30 = Pixel(10, 30, spacer);
-x11y30 = Pixel(11, 30, spacer); x12y30 = Pixel(12, 30, spacer); x13y30 = Pixel(13, 30, spacer); x14y30 = Pixel(14, 30, spacer); x15y30 = Pixel(15, 30, spacer);
-x16y30 = Pixel(16, 30, spacer); x17y30 = Pixel(17, 30, spacer); x18y30 = Pixel(18, 30, spacer); x19y30 = Pixel(19, 30, spacer); x20y30 = Pixel(20, 30, spacer);
-x21y30 = Pixel(21, 30, spacer); x22y30 = Pixel(22, 30, spacer); x23y30 = Pixel(23, 30, spacer); x24y30 = Pixel(24, 30, spacer); x25y30 = Pixel(25, 30, spacer);
-x26y30 = Pixel(26, 30, spacer); x27y30 = Pixel(27, 30, spacer); x28y30 = Pixel(28, 30, spacer); x29y30 = Pixel(29, 30, spacer); x30y30 = Pixel(30, 30, spacer);
-x31y30 = Pixel(31, 30, spacer); x32y30 = Pixel(32, 30, spacer); x33y30 = Pixel(33, 30, spacer); x34y30 = Pixel(34, 30, spacer); x35y30 = Pixel(35, 30, spacer);
-x36y30 = Pixel(36, 30, spacer); x37y30 = Pixel(37, 30, spacer); x38y30 = Pixel(38, 30, spacer); x39y30 = Pixel(39, 30, spacer); x40y30 = Pixel(40, 30, spacer);
-x41y30 = Pixel(41, 30, spacer); x42y30 = Pixel(42, 30, spacer); x43y30 = Pixel(43, 30, spacer); x44y30 = Pixel(44, 30, spacer); x45y30 = Pixel(45, 30, spacer);
-x46y30 = Pixel(46, 30, spacer); x47y30 = Pixel(47, 30, spacer); x48y30 = Pixel(48, 30, spacer); x49y30 = Pixel(49, 40, spacer); x50y30 = Pixel(50, 30, spacer);
-x51y30 = Pixel(51, 30, spacer); x52y30 = Pixel(52, 30, spacer); x53y30 = Pixel(53, 30, spacer); x54y30 = Pixel(54, 30, spacer); x55y30 = Pixel(55, 30, spacer);
-x56y30 = Pixel(56, 30, spacer); x57y30 = Pixel(57, 30, spacer); x58y30 = Pixel(58, 30, spacer); x59y30 = Pixel(59, 30, spacer); x60y30 = Pixel(60, 30, spacer);
-x61y30 = Pixel(61, 30, spacer); x62y30 = Pixel(62, 30, spacer); x63y30 = Pixel(63, 30, spacer); x64y30 = Pixel(64, 30, spacer); x65y30 = Pixel(65, 30, spacer);
-x66y30 = Pixel(66, 30, spacer); x67y30 = Pixel(67, 30, spacer); x68y30 = Pixel(68, 30, spacer); x69y30 = Pixel(69, 30, spacer); x70y30 = Pixel(70, 30, spacer);
-x71y30 = Pixel(71, 30, spacer); x72y30 = Pixel(72, 30, spacer); x73y30 = Pixel(73, 30, spacer); x74y30 = Pixel(74, 30, spacer); x75y30 = Pixel(75, 30, spacer);
-x76y30 = Pixel(76, 30, spacer); x77y30 = Pixel(77, 30, spacer); x78y30 = Pixel(78, 30, spacer); x79y30 = Pixel(79, 30, spacer); x80y30 = Pixel(80, 30, spacer);
-x81y30 = Pixel(81, 30, spacer); x82y30 = Pixel(82, 30, spacer); x83y30 = Pixel(83, 30, spacer); x84y30 = Pixel(84, 30, spacer); x85y30 = Pixel(85, 30, spacer); 
-x86y30 = Pixel(86, 30, spacer); x87y30 = Pixel(87, 30, spacer); x88y30 = Pixel(88, 30, spacer); x89y30 = Pixel(89, 30, spacer); x90y30 = Pixel(90, 30, spacer);
-x91y30 = Pixel(91, 30, spacer); x92y30 = Pixel(92, 30, spacer); x93y30 = Pixel(93, 30, spacer); x94y30 = Pixel(94, 30, spacer); x95y30 = Pixel(95, 30, spacer);
-x96y30 = Pixel(96, 30, spacer); x97y30 = Pixel(97, 30, spacer); x98y30 = Pixel(98, 30, spacer); x99y30 = Pixel(99, 30, spacer); x100y30 = Pixel(100, 30, spacer);
-x101y30 = Pixel(101, 30, spacer); x102y30 = Pixel(102, 30, spacer); x103y30 = Pixel(103, 30, spacer); x104y30 = Pixel(104, 30, spacer); x105y30 = Pixel(105, 30, spacer); 
-x106y30 = Pixel(106, 30, spacer); x107y30 = Pixel(107, 30, spacer); x108y30 = Pixel(108, 30, spacer); x109y30 = Pixel(109, 30, spacer); x110y30 = Pixel(110, 30, spacer);
-x111y30 = Pixel(111, 30, spacer); x112y30 = Pixel(112, 30, spacer); x113y30 = Pixel(113, 30, spacer); x114y30 = Pixel(114, 30, spacer); x115y30 = Pixel(115, 30, spacer); 
-x116y30 = Pixel(116, 30, spacer); x117y30 = Pixel(117, 30, spacer); x118y30 = Pixel(118, 30, spacer); x119y30 = Pixel(119, 30, spacer); x120y30 = Pixel(120, 30, spacer);
+	x1y29 = Pixel(1, 29, wall); x2y29 = Pixel(2, 29, spacer); x3y29 = Pixel(3, 29, spacer); x4y29 = Pixel(4, 29, spacer); x5y29 = Pixel(5, 29, spacer)
+	x6y29 = Pixel(6, 29, spacer); x7y29 = Pixel(7, 29, spacer); x8y29 = Pixel(8, 29, spacer); x9y29 = Pixel(9, 29, spacer); x10y29 = Pixel(10, 29, spacer);
+	x11y29 = Pixel(11, 29, spacer); x12y29 = Pixel(12, 29, spacer); x13y29 = Pixel(); x14y29 = Pixel(14, 29, spacer); x15y29 = Pixel(15, 29, spacer);
+	x16y29 = Pixel(16, 29, spacer); x17y29 = Pixel(16, 29, spacer); x18y29 = Pixel(18, 29, spacer); x19y29 = Pixel(19, 29, spacer); x20y29 = PIxel(20, 29, spacer);
+	x21y29 = Pixel(21, 29, spacer); x22y29 = Pixel(22, 29, spacer); x23y29 = Pixel(23, 29, spacer); x24y29 = Pixel(24, 29, spacer); x25y29 = Pixel(25, 29, spacer);
+	x26y29 = Pixel(26, 29, spacer); x27y29 = Pixel(27, 29, spacer); x28y29 = Pixel(28, 29, spacer); x29y29 = Pixel(29, 29, spacer); x30y29= Pixel(30, 29, spacer);
+	x31y29 = Pixel(31, 29, spacer); x32y29 = Pixel(32, 29, spacer); x33y29 = Pixel(33, 29, spacer); x34y29 = Pixel(34, 29, spacer); x35y29 = Pixel(35, 29, sapcer);
+	x36y29 = Pixel(36, 29, spacer); x37y29 = Pixel(37, 29, spacer); x38y29 = Pixel(38, 29, spacer); x39y39 = Pixel(39, 29, spacer); x40y29 = Pixel(40, 29, spacer); 
+	x41y29 = Pixel(41, 29, spacer); x42y29 = Pixel(42, 29, spacer); x43y29 = Pixel(43, 29, spacer); x44y29 = Pixel(44, 29, spacer); x45y29 = Pixel(45, 29, spacer);
+	x46y29 = Pixel(46, 29, spacer); x47y29 = Pixel(47, 29, spacer); x48y29 = Pixel(48, 29, spacer); x49y29 = Pixel(49, 29, spacer); x50y29 = Pixel(50, 29, spacer);
+	x51y29 = Pixel(51, 29, spacer); x52y29 = Pixel(52, 29, spacer); x53y29 = Pixel(53, 29, spacer); x54y29 = Pixel(54, 29, spacer); x55y29 = Pixerl(55, 29, spacer);
+	x56y29 = Pixel(56, 29, spacer); x57y29 = Pixel(57, 29, spacer); x58y29 = Pixel(58, 29, spacer); x59y29 = Pixel(59, 29, spacer); x60y29 = Pixel(60, 29, spacer);
+	x61y29 = Pixel(61, 29, spacer); x62y29 = Pixel(62, 29, spacer); x63y29 = Pixel(63, 29, spacer); x64y29 = Pixel(64, 29, spacer); x65y29 = Pixel(65, 29, spacer); 
+	x66y29 = Pixel(66, 29, spacer); x67y29 = Pixel(67, 29, spacer); x68y29 = Pixel(68, 29, spacer); x69y29 = Pixel(69, 29, spacer); x70y29 = Pixel(70, 29, spacer);
+	x71y29 = Pixel(71, 29, spacer); x72y29 = Pixel(72, 29, spacer); x73y29 = Pixel(73, 29, spacer); x74y29 = Pixel(74, 29, spacer); x75y29 = Pixel(75, 29, spacer);
+	x76y29 = Pixel(76, 29, spacer); x77y29 = Pixel(77, 29, spacer); x78y29 = Pixel(78, 29, spacer); x79y29 = Pixel(79, 29, spacer); x80y29 = Pixel(80, 29, spacer); 
+	x81y29 = Pixel(81, 29, spacer); x82y29 = Pixel(82, 29, spacer); x83y29 = Pixel(83, 29, spacer); x84y29 = Pixel(84, 29, spacer); x85y29 = Pixel(85, 29, spacer);
+	x86y29 = Pixel(86, 29, spacer); x87y29 = Pixel(87, 29, spacer); x88y29 = Pixel(88, 29, spacer); x89y29 = Pixel(89, 29, spacer); x90y29 = Pixel(90, 29, spacer);
+	x91y29 = Pixel(91, 29, spacer); x92y29 = Pixel(92, 29, spacer); x93y29 = Pixel(93, 29, spacer); x94y29 = Pixel(94, 29, spacer); x95y29 = Pixel(95, 29, spacer);
+	x96y29 = Pixel(96, 29, spacer); x97y29 = Pixel(97, 29, spacer); x98y29 = Pixel(98, 29, spacer); x99y29 = Pixel(99, 29, spacer); x100y29 Pixel(100, 29, spacer);
+	x101y29 = Pixel(101, 29, spacer); x102y29 = Pixel(102, 29, spacer); x103y29 = Pixel(103, 29, spacer); x104y29 = Pixel(104, 29, spacer); x105y29 = Pixel(105, 29, spacer);
+	x106y29 = Pixel(106, 29, spacer); x107y29 = Pixel(107, 29, spacer); x108y29 = Pixel(108, 29, spacer); x109y29 = Pixel(109, 29, spacer); x110y29 = Pixel(110, 29, spacer);
+	x111y29 = Pixel(111, 29, spacer); x112y29 = Pixel(112, 29, spacer); x113y29 = Pixel(113, 29, spacer); x114y29 = Pixel(114, 29, spacer); x115y29 = Pixel(115, 29, spacer);
+	x116y29 = Pixel(116, 29, spacer); x117y29 = Pixel(117, 29, spacer); x118y29 = Pixel(118, 29, spacer); x119y29 = Pixel(119, 29, spacer); x120y29 = Pixel(120, 29, spacer);	
+	x1y30 = Pixel(1, 30, wall); x2y30 = Pixel(2, 30, spacer); x3y30 = Pixel(3, 30, spacer); x4y30 = Pixel(4, 30, spacer); x5y30 = Pixel(5, 30, spacer); 
+	x6y30 = Pixel(6, 30, spacer); x7y30 = Pixel(7, 30, spacer); x8y30 = Pixel(8, 30, spacer); x9y30 = Pixel(9, 30, spacer); x10y30 = Pixel(10, 30, spacer);
+	x11y30 = Pixel(11, 30, spacer); x12y30 = Pixel(12, 30, spacer); x13y30 = Pixel(13, 30, spacer); x14y30 = Pixel(14, 30, spacer); x15y30 = Pixel(15, 30, spacer);
+	x16y30 = Pixel(16, 30, spacer); x17y30 = Pixel(17, 30, spacer); x18y30 = Pixel(18, 30, spacer); x19y30 = Pixel(19, 30, spacer); x20y30 = Pixel(20, 30, spacer);
+	x21y30 = Pixel(21, 30, spacer); x22y30 = Pixel(22, 30, spacer); x23y30 = Pixel(23, 30, spacer); x24y30 = Pixel(24, 30, spacer); x25y30 = Pixel(25, 30, spacer);
+	x26y30 = Pixel(26, 30, spacer); x27y30 = Pixel(27, 30, spacer); x28y30 = Pixel(28, 30, spacer); x29y30 = Pixel(29, 30, spacer); x30y30 = Pixel(30, 30, spacer);
+	x31y30 = Pixel(31, 30, spacer); x32y30 = Pixel(32, 30, spacer); x33y30 = Pixel(33, 30, spacer); x34y30 = Pixel(34, 30, spacer); x35y30 = Pixel(35, 30, spacer);
+	x36y30 = Pixel(36, 30, spacer); x37y30 = Pixel(37, 30, spacer); x38y30 = Pixel(38, 30, spacer); x39y30 = Pixel(39, 30, spacer); x40y30 = Pixel(40, 30, spacer);
+	x41y30 = Pixel(41, 30, spacer); x42y30 = Pixel(42, 30, spacer); x43y30 = Pixel(43, 30, spacer); x44y30 = Pixel(44, 30, spacer); x45y30 = Pixel(45, 30, spacer);
+	x46y30 = Pixel(46, 30, spacer); x47y30 = Pixel(47, 30, spacer); x48y30 = Pixel(48, 30, spacer); x49y30 = Pixel(49, 40, spacer); x50y30 = Pixel(50, 30, spacer);
+	x51y30 = Pixel(51, 30, spacer); x52y30 = Pixel(52, 30, spacer); x53y30 = Pixel(53, 30, spacer); x54y30 = Pixel(54, 30, spacer); x55y30 = Pixel(55, 30, spacer);
+	x56y30 = Pixel(56, 30, spacer); x57y30 = Pixel(57, 30, spacer); x58y30 = Pixel(58, 30, spacer); x59y30 = Pixel(59, 30, spacer); x60y30 = Pixel(60, 30, spacer);
+	x61y30 = Pixel(61, 30, spacer); x62y30 = Pixel(62, 30, spacer); x63y30 = Pixel(63, 30, spacer); x64y30 = Pixel(64, 30, spacer); x65y30 = Pixel(65, 30, spacer);
+	x66y30 = Pixel(66, 30, spacer); x67y30 = Pixel(67, 30, spacer); x68y30 = Pixel(68, 30, spacer); x69y30 = Pixel(69, 30, spacer); x70y30 = Pixel(70, 30, spacer);
+	x71y30 = Pixel(71, 30, spacer); x72y30 = Pixel(72, 30, spacer); x73y30 = Pixel(73, 30, spacer); x74y30 = Pixel(74, 30, spacer); x75y30 = Pixel(75, 30, spacer);
+	x76y30 = Pixel(76, 30, spacer); x77y30 = Pixel(77, 30, spacer); x78y30 = Pixel(78, 30, spacer); x79y30 = Pixel(79, 30, spacer); x80y30 = Pixel(80, 30, spacer);
+	x81y30 = Pixel(81, 30, spacer); x82y30 = Pixel(82, 30, spacer); x83y30 = Pixel(83, 30, spacer); x84y30 = Pixel(84, 30, spacer); x85y30 = Pixel(85, 30, spacer); 
+	x86y30 = Pixel(86, 30, spacer); x87y30 = Pixel(87, 30, spacer); x88y30 = Pixel(88, 30, spacer); x89y30 = Pixel(89, 30, spacer); x90y30 = Pixel(90, 30, spacer);
+	x91y30 = Pixel(91, 30, spacer); x92y30 = Pixel(92, 30, spacer); x93y30 = Pixel(93, 30, spacer); x94y30 = Pixel(94, 30, spacer); x95y30 = Pixel(95, 30, spacer);
+	x96y30 = Pixel(96, 30, spacer); x97y30 = Pixel(97, 30, spacer); x98y30 = Pixel(98, 30, spacer); x99y30 = Pixel(99, 30, spacer); x100y30 = Pixel(100, 30, spacer);
+	x101y30 = Pixel(101, 30, spacer); x102y30 = Pixel(102, 30, spacer); x103y30 = Pixel(103, 30, spacer); x104y30 = Pixel(104, 30, spacer); x105y30 = Pixel(105, 30, spacer); 
+	x106y30 = Pixel(106, 30, spacer); x107y30 = Pixel(107, 30, spacer); x108y30 = Pixel(108, 30, spacer); x109y30 = Pixel(109, 30, spacer); x110y30 = Pixel(110, 30, spacer);
+	x111y30 = Pixel(111, 30, spacer); x112y30 = Pixel(112, 30, spacer); x113y30 = Pixel(113, 30, spacer); x114y30 = Pixel(114, 30, spacer); x115y30 = Pixel(115, 30, spacer); 
+	x116y30 = Pixel(116, 30, spacer); x117y30 = Pixel(117, 30, spacer); x118y30 = Pixel(118, 30, spacer); x119y30 = Pixel(119, 30, spacer); x120y30 = Pixel(120, 30, spacer);
 
     ''' z = ' '
         for x in range(width):
