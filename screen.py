@@ -888,8 +888,13 @@ class Pix():
             x81y22, x82y22, x83y22, x84y22, x85y22, x86y22, x87y22, x88y22, x89y22, x90y22, x91y22, x92y22, x93y22, x94y22, x95y22, x96y22, x97y22, x98y22, x99y22, x100y22, \
             x101y22, x102y22, x103y22, x104y22, x105y22, x106y22, x107y22, x108y22, x109y22, x110y22, x111y22, x112y22, x113y22, x114y22, x115y22, x116y22, x117y22, x118y22, x119y22, x120y22 ]
 
-    row23    
+    row23 = [ x1y23, x2y23, x3y23, x4y23, x5y23, x6y23, x7y23, x8y23, x9y23, x10y23, x11y23, x12y23, x13y23, x14y23, x15y23, x16y23, x17y23, x18y23, x19y23, x20y23, \
+            x21y23, x22y23, x23y23, x24y23, x25y23, x26y23, x27y23, x28y23, x29y23, x30y23, x31y23, x32y23, x33y23, x34y23, x35y23, x36y23, x37y23, x38y23, x39y23, x40yx23, \
+            x41y23, x42y23, x43y23, x44y23, x45y23, x46y23, xx47y23, x48y23, x49y23, x50y23, x51y23, x52y23, x53y23, x54y23, x55y23, x56y23, x57y23, x58y23, x59y23, x60y23, \
+            x81y23, x82y23, x83y23, x84y23, x85y23, x86y23, x87y23, x88y23, x89y23, x90y23, x91y23, x92y23, x93y23, x94y23, x95y23, x96y23, x97y23, x98y23, x99y23, x100y23, \
+            x101y23, x102y23, x103y23, x104y23, x105y23, x106y23, x107y23, x108y23, x109y23, x110y23, x111y23, x112y23, x112y23, x113y23, x114y23, x115y23, x116y23, x117y23, x118y23, x119y23, x120y23 ]
 
+    row24  
 def printScreen():
     #print(f' raw row 1: {Pix.row1}')
     print('attempting to print values')
