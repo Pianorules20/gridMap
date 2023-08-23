@@ -894,7 +894,15 @@ class Pix():
             x81y23, x82y23, x83y23, x84y23, x85y23, x86y23, x87y23, x88y23, x89y23, x90y23, x91y23, x92y23, x93y23, x94y23, x95y23, x96y23, x97y23, x98y23, x99y23, x100y23, \
             x101y23, x102y23, x103y23, x104y23, x105y23, x106y23, x107y23, x108y23, x109y23, x110y23, x111y23, x112y23, x112y23, x113y23, x114y23, x115y23, x116y23, x117y23, x118y23, x119y23, x120y23 ]
 
-    row24  
+    row24 = [ x1y24, x2y24, x3y24, x4y24, x5y24, x6y24, x7y24, x8y24, x9y24, x10y24, x11y24, x12y24, x13y24, x14y24, x15y24, x16y24, x17y24, x18y24, x19y24, x20y24, \
+            x21y24, x22y24, x23y24, x24y24, x25y24, x26y24, x27y24, x28y24, x29y24, x30y24, x31y24, x32y24, x33y24, x34y24, x35y24, x36y24, x37y24, x38y24, x39y24, x40y24, \
+            x41y24, x42y24, x43y24, x44y24, x45y24, x46y24, x47y24, x48y24, x49y24, x50y24, x51y24, x52y24, x53y24, x54y24, x55y24, x56y24, x57y24, x58y24, x59y24, x60y24, \
+            x61y24, x62y24, x63y24, x64y24, x65y24, x66y24, x67y24, x68y24, x69y24, x70y24, x71y24, x72y24, x73y24, x74y24, x75y24, x76y24, x77y24, x78y24, x79y24, x80y24, \
+            x81y24, x82y24, x83y24, x84y24, x85y24, x86y24, x87y24, x88y24, x89y24, x90y24, x91y24, x92y24, x93y24, x94y24, x95y24, x96y24, x97y24, x98y24, x99y24, x100y24, \
+            x101y24, x102y24, x103y24, x104y24, x105y24, x106y24, x107y24, x108y24, x109y24, x110y24, x111y24, x112y24, x113y24, x114y24, x115y24, x116y24, x117y24, x118y24, x119y24, x120y24 ]
+            
+    row25 = [  
+
 def printScreen():
     #print(f' raw row 1: {Pix.row1}')
     print('attempting to print values')
