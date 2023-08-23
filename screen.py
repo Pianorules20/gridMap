@@ -1,4 +1,4 @@
-#screen.py
+    #screen.py
 '''creates a screen 120 pixels wide by 30 pixels high'''
 
 class Pixel():
@@ -881,8 +881,14 @@ class Pix():
             x81y21, x82y21, x83y21, x84y21, x85y21, x86y21, x87y21, x88y21, x89y21, x90y21, x91y21, x92y21, x93y21, x94y21, x95y21, x96y21, x97y21, x98y21, x99y21, x100y21, \
             x101y21, x102y21, x103y21, x104y21, x105y21, x106y21, x107y21, x108y21, x109y21, x110y21, x111y21, x112y21, x113y21, x114y21, x115y21, x116y21, x117y21, x118y21, x119y21, x120y21 ]
     
-    row22 = [ x1y22
-    
+    row22 = [ x1y22, x2y22, x3y22, x4y22, x5y22, x6y22, x7y22, x8y22, x9y22, x10y22, x11y22, x12y22, x13y22, x14y22, x15y22, x16y22, x17y22, x18y22, x19y22, x20y22, \
+            x21y22, x22y22, x23y22, x24y22, x25y22, x26y22, x27y22, x28y22, x29y22, x30y22, x31y22, x32y22, x33y22, x34y22, x35y22, x36y22, x37y22, x38y22, x39y22, x40y22, \
+            x41y22, x42y22, x43y22, x44y22, x45y22, x46y22, x47y22, x48y22, x49y22, x50y22, x51y22, x52y22, x53y22, x54y22, x55y22, x56y22, x57y22, x58y22, x59y22, x60y22, \
+            x61y22, x62y22, x63y22, x64y22, x65y22, x66y22, x67y22, x68y22, x69y22, x70y22, x71y22, x72y22, x73y22, x74y22, x75y22, x76y22, x77y22, x78y22, x79y22, x80y22, \
+            x81y22, x82y22, x83y22, x84y22, x85y22, x86y22, x87y22, x88y22, x89y22, x90y22, x91y22, x92y22, x93y22, x94y22, x95y22, x96y22, x97y22, x98y22, x99y22, x100y22, \
+            x101y22, x102y22, x103y22, x104y22, x105y22, x106y22, x107y22, x108y22, x109y22, x110y22, x111y22, x112y22, x113y22, x114y22, x115y22, x116y22, x117y22, x118y22, x119y22, x120y22 ]
+
+    row23    
 
 def printScreen():
     #print(f' raw row 1: {Pix.row1}')
