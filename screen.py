@@ -437,8 +437,8 @@ class Pix():
     x106y17 = Pixel(106, 17, spacer); x107y17 = Pixel(107, 17, spacer); x108y17 = Pixel(108, 17, spacer); x109y17 = Pixel(109, 17, spacer); x110y17 = Pixel(110, 17, spacer); 
     x111y17 = Pixel(107, 17, spacer); x112y17 = Pixel(112, 17, spacer); x113y17 = Pixel(113, 17, spacer); x114y17 = Pixel(114, 17, spacer); x115y17 = Pixel(115, 17, spacer);
     x116y17 = Pixel(116, 17, spacer); x117y17 = Pixel(117, 17, spacer); x118y17 = Pixel(118, 17, spacer); x119y17 = Pixel(119, 17, spacer); x120y17 = Pixel(120, 17, wall);
-    x1y18 = Pixel(1, 18, wall); x2y18 = Pixel(2, 18, spacer); x3y18 = Pixel(3, 18, spacer); x4y18 = Pixel(4, 18, spacer); x5y17 = Pixel(5, 17, spacer);
-    x6y18 = Pixel(6, 18, spacer); x7y18 = Pixel(7, 18, spacer); x8y18 = Pixel(8, 18, spacer); x9y18 = Pixel(9, 18, spacer); x10y17 = Pixel(10, 17, spacer);
+    x1y18 = Pixel(1, 18, wall); x2y18 = Pixel(2, 18, spacer); x3y18 = Pixel(3, 18, spacer); x4y18 = Pixel(4, 18, spacer); x5y18 = Pixel(5, 18, spacer);
+    x6y18 = Pixel(6, 18, spacer); x7y18 = Pixel(7, 18, spacer); x8y18 = Pixel(8, 18, spacer); x9y18 = Pixel(9, 18, spacer); x10y18 = Pixel(10, 18, spacer);
     x11y18 = Pixel(11, 18, spacer); x12y18 = Pixel(12, 18, spacer); x13y18 = Pixel(13, 18, spacer); x13y18 = Pixel(13, 18, spacer); x14y18 = Pixel(14, 18, spacer); x15y18 = Pixel(15, 18, spacer); 
     x16y18 = Pixel(16, 18, spacer); x17y18 = Pixel(17, 18, spacer); x18y18 = Pixel(18, 18, spacer); x19y18 = Pixel(19, 18, spacer); x20y18 = Pixel(20, 18, spacer);
     x21y18 = Pixel(21, 18, spacer); x22y18 = Pixel(22, 18, spacer); x23y18 = Pixel(23, 18, spacer); x24y18 = Pixel(24, 18, spacer); x25y18 = Pixel(25, 18, spacer);
@@ -465,7 +465,7 @@ class Pix():
     x6y19 = Pixel(6, 19, spacer); x7y19 = Pixel(7, 19, spacer); x8y19 = Pixel(8, 19, spacer); x9y19 = Pixel(9, 19, spacer); x10y19 = Pixel(10, 19, spacer); 
     x11y19 = Pixel(11, 19, spacer); x12y19 = Pixel(12, 19, spacer); x13y19 = Pixel(13, 19, spacer); x14y19 = Pixel(14, 19, spacer); x15y19 = Pixel(15, 19, spacer);
     x16y19 = Pixel(16, 19, spacer); x17y19 = Pixel(17, 19, spacer); x18y19 = Pixel(18, 19, spacer); x19y19 = Pixel(19, 19, spacer); x20y19 = Pixel(20, 19, spacer);
-    x21y19 = Pixel(21, 19, spacer); x22y19 = Pixel(22, 19, spacer); x23y19 = Pixel(23, 19, spacer); x24y19 = Pixel(24, 19, spacer); x25y29 = Pixel(25, 29, spacer);
+    x21y19 = Pixel(21, 19, spacer); x22y19 = Pixel(22, 19, spacer); x23y19 = Pixel(23, 19, spacer); x24y19 = Pixel(24, 19, spacer); x25y19 = Pixel(25, 19, spacer);
     x26y19 = Pixel(26, 19, spacer); x27y19 = Pixel(27, 19, spacer); x28y19 = Pixel(28, 19, spacer); x29y19 = Pixel(29, 19, spacer); x30y19 = Pixel(30, 19, spacer);
     x31y19 = Pixel(31, 19, spacer); x32y19 = Pixel(32, 19, spacer); x33y19 = Pixel(33, 19, spacer); x34y19 = Pixel(34, 19, spacer); x35y19 = Pixel(35, 19, spacer);
     x36y19 = Pixel(36, 19, spacer); x37y19 = Pixel(37, 19, spacer); x38y19 = Pixel(38, 19, spacer); x39y19 = Pixel(39, 19, spacer); x40y19 = Pixel(40, 19, spacer); 
@@ -497,7 +497,7 @@ class Pix():
     x46y20 = Pixel(46, 20, spacer); x47y20 = Pixel(47, 20, spacer); x48y20 = Pixel(48, 20, spacer); x49y20 = Pixel(49, 20, spacer); x50y20 = Pixel(50, 20, spacer);
     x51y20 = Pixel(51, 20, spacer); x52y20 = Pixel(52, 20, spacer); x53y20 = Pixel(53, 20, spacer); x54y20 = Pixel(54, 20, spacer); x55y20 = Pixel(55, 20, spacer);
     x56y20 = Pixel(56, 20, spacer); x57y20 = Pixel(57, 20, spacer); x58y20 = Pixel(58, 20, spacer); x59y20 = Pixel(59, 20, spacer); x60y20 = Pixel(60, 20, spacer);
-    x61y20 = Pixel(61, 20, spacer); x62y20 = Pixel(62, 20, spacer); x63y30 = Pixel(63, 20, spacer); x64y20 = Pixel(64, 20, spacer); x65y20 = Pixel(65, 20, spacer);
+    x61y20 = Pixel(61, 20, spacer); x62y20 = Pixel(62, 20, spacer); x63y20 = Pixel(63, 20, spacer); x64y20 = Pixel(64, 20, spacer); x65y20 = Pixel(65, 20, spacer);
     x66y20 = Pixel(66, 20, spacer); x67y20 = Pixel(67, 20, spacer); x68y20 = Pixel(68, 20, spacer); x69y20 = Pixel(69, 20, spacer); x70y20 = Pixel(70, 20, spacer);
     x71y20 = Pixel(71, 20, spacer); x72y20 = Pixel(72, 20, spacer); x73y20 = Pixel(73, 20, spacer); x74y20 = Pixel(74, 20, spacer); x75y20 = Pixel(75, 20, spacer);
     x76y20 = Pixel(76, 20, spacer); x77y20 = Pixel(77, 20, spacer); x78y20 = Pixel(78, 20, spacer); x79y20 = Pixel(79, 20, spacer); x80y20 = Pixel(80, 20, spacer);
@@ -708,7 +708,8 @@ class Pix():
     x21y29 = Pixel(21, 29, spacer); x22y29 = Pixel(22, 29, spacer); x23y29 = Pixel(23, 29, spacer); x24y29 = Pixel(24, 29, spacer); x25y29 = Pixel(25, 29, spacer);
     x26y29 = Pixel(26, 29, spacer); x27y29 = Pixel(27, 29, spacer); x28y29 = Pixel(28, 29, spacer); x29y29 = Pixel(29, 29, spacer); x30y29= Pixel(30, 29, spacer);
     x31y29 = Pixel(31, 29, spacer); x32y29 = Pixel(32, 29, spacer); x33y29 = Pixel(33, 29, spacer); x34y29 = Pixel(34, 29, spacer); x35y29 = Pixel(35, 29, spacer);
-    x36y29 = Pixel(41, 29, spacer); x42y29 = Pixel(42, 29, spacer); x43y29 = Pixel(43, 29, spacer); x44y29 = Pixel(44, 29, spacer); x45y29 = Pixel(45, 29, spacer);
+    x36y29 = Pixel(41, 29, spacer); x37y29 = Pixel(37, 29, spacer); x38y29 = Pixel(38, 29, spacer); x39y29 = Pixel(39, 29, spacer); x40y29 = Pixel(40, 29, spacer);
+    x41y29 = Pixel(41, 29, spacer); x42y29 = Pixel(42, 29, spacer); x43y29 = Pixel(43, 29, spacer); x44y29 = Pixel(44, 29, spacer); x45y29 = Pixel(45, 29, spacer);
     x46y29 = Pixel(46, 29, spacer); x47y29 = Pixel(47, 29, spacer); x48y29 = Pixel(48, 29, spacer); x49y29 = Pixel(49, 29, spacer); x50y29 = Pixel(50, 29, spacer);
     x51y29 = Pixel(51, 29, spacer); x52y29 = Pixel(52, 29, spacer); x53y29 = Pixel(53, 29, spacer); x54y29 = Pixel(54, 29, spacer); x55y29 = Pixel(55, 29, spacer);
     x56y29 = Pixel(56, 29, spacer); x57y29 = Pixel(57, 29, spacer); x58y29 = Pixel(58, 29, spacer); x59y29 = Pixel(59, 29, spacer); x60y29 = Pixel(60, 29, spacer);
@@ -724,30 +725,30 @@ class Pix():
     x106y29 = Pixel(106, 29, spacer); x107y29 = Pixel(107, 29, spacer); x108y29 = Pixel(108, 29, spacer); x109y29 = Pixel(109, 29, spacer); x110y29 = Pixel(110, 29, spacer);
     x111y29 = Pixel(111, 29, spacer); x112y29 = Pixel(112, 29, spacer); x113y29 = Pixel(113, 29, spacer); x114y29 = Pixel(114, 29, spacer); x115y29 = Pixel(115, 29, spacer);
     x116y29 = Pixel(116, 29, spacer); x117y29 = Pixel(117, 29, spacer); x118y29 = Pixel(118, 29, spacer); x119y29 = Pixel(119, 29, spacer); x120y29 = Pixel(120, 29, wall);
-    x1y30 = Pixel(1, 30, wall); x2y30 = Pixel(2, 30, spacer); x3y30 = Pixel(3, 30, spacer); x4y30 = Pixel(4, 30, spacer); x5y30 = Pixel(5, 30, spacer);
-    x6y30 = Pixel(6, 30, spacer); x7y30 = Pixel(7, 30, spacer); x8y30 = Pixel(8, 30, spacer); x9y30 = Pixel(9, 30, spacer); x10y30 = Pixel(10, 30, spacer);
-    x11y30 = Pixel(11, 30, spacer); x12y30 = Pixel(12, 30, spacer); x13y30 = Pixel(13, 30, spacer); x14y30 = Pixel(14, 30, spacer); x15y30 = Pixel(15, 30, spacer);
-    x16y30 = Pixel(16, 30, spacer); x17y30 = Pixel(17, 30, spacer); x18y30 = Pixel(18, 30, spacer); x19y30 = Pixel(19, 30, spacer); x20y30 = Pixel(20, 30, spacer);
-    x21y30 = Pixel(21, 30, spacer); x22y30 = Pixel(22, 30, spacer); x23y30 = Pixel(23, 30, spacer); x24y30 = Pixel(24, 30, spacer); x25y30 = Pixel(25, 30, spacer);
-    x26y30 = Pixel(26, 30, spacer); x27y30 = Pixel(27, 30, spacer); x28y30 = Pixel(28, 30, spacer); x29y30 = Pixel(29, 30, spacer); x30y30 = Pixel(30, 30, spacer);
-    x31y30 = Pixel(31, 30, spacer); x32y30 = Pixel(32, 30, spacer); x33y30 = Pixel(33, 30, spacer); x34y30 = Pixel(34, 30, spacer); x35y30 = Pixel(35, 30, spacer);
-    x36y30 = Pixel(36, 30, spacer); x37y30 = Pixel(37, 30, spacer); x38y30 = Pixel(38, 30, spacer); x39y30 = Pixel(39, 30, spacer); x40y30 = Pixel(40, 30, spacer);
-    x41y30 = Pixel(41, 30, spacer); x42y30 = Pixel(42, 30, spacer); x43y30 = Pixel(43, 30, spacer); x44y30 = Pixel(44, 30, spacer); x45y30 = Pixel(45, 30, spacer);
-    x46y30 = Pixel(46, 30, spacer); x47y30 = Pixel(47, 30, spacer); x48y30 = Pixel(48, 30, spacer); x49y30 = Pixel(49, 40, spacer); x50y30 = Pixel(50, 30, spacer);
-    x51y30 = Pixel(51, 30, spacer); x52y30 = Pixel(52, 30, spacer); x53y30 = Pixel(53, 30, spacer); x54y30 = Pixel(54, 30, spacer); x55y30 = Pixel(55, 30, spacer);
-    x56y30 = Pixel(56, 30, spacer); x57y30 = Pixel(57, 30, spacer); x58y30 = Pixel(58, 30, spacer); x59y30 = Pixel(59, 30, spacer); x60y30 = Pixel(60, 30, spacer);
-    x61y30 = Pixel(61, 30, spacer); x62y30 = Pixel(62, 30, spacer); x63y30 = Pixel(63, 30, spacer); x64y30 = Pixel(64, 30, spacer); x65y30 = Pixel(65, 30, spacer);
-    x66y30 = Pixel(66, 30, spacer); x67y30 = Pixel(67, 30, spacer); x68y30 = Pixel(68, 30, spacer); x69y30 = Pixel(69, 30, spacer); x70y30 = Pixel(70, 30, spacer);
-    x71y30 = Pixel(71, 30, spacer); x72y30 = Pixel(72, 30, spacer); x73y30 = Pixel(73, 30, spacer); x74y30 = Pixel(74, 30, spacer); x75y30 = Pixel(75, 30, spacer);
-    x76y30 = Pixel(76, 30, spacer); x77y30 = Pixel(77, 30, spacer); x78y30 = Pixel(78, 30, spacer); x79y30 = Pixel(79, 30, spacer); x80y30 = Pixel(80, 30, spacer);
-    x81y30 = Pixel(81, 30, spacer); x82y30 = Pixel(82, 30, spacer); x83y30 = Pixel(83, 30, spacer); x84y30 = Pixel(84, 30, spacer); x85y30 = Pixel(85, 30, spacer);
-    x86y30 = Pixel(86, 30, spacer); x87y30 = Pixel(87, 30, spacer); x88y30 = Pixel(88, 30, spacer); x89y30 = Pixel(89, 30, spacer); x90y30 = Pixel(90, 30, spacer);
-    x91y30 = Pixel(91, 30, spacer); x92y30 = Pixel(92, 30, spacer); x93y30 = Pixel(93, 30, spacer); x94y30 = Pixel(94, 30, spacer); x95y30 = Pixel(95, 30, spacer);
-    x96y30 = Pixel(96, 30, spacer); x97y30 = Pixel(97, 30, spacer); x98y30 = Pixel(98, 30, spacer); x99y30 = Pixel(99, 30, spacer); x100y30 = Pixel(100, 30, spacer);
-    x101y30 = Pixel(101, 30, spacer); x102y30 = Pixel(102, 30, spacer); x103y30 = Pixel(103, 30, spacer); x104y30 = Pixel(104, 30, spacer); x105y30 = Pixel(105, 30, spacer);
-    x106y30 = Pixel(106, 30, spacer); x107y30 = Pixel(107, 30, spacer); x108y30 = Pixel(108, 30, spacer); x109y30 = Pixel(109, 30, spacer); x110y30 = Pixel(110, 30, spacer);
-    x111y30 = Pixel(111, 30, spacer); x112y30 = Pixel(112, 30, spacer); x113y30 = Pixel(113, 30, spacer); x114y30 = Pixel(114, 30, spacer); x115y30 = Pixel(115, 30, spacer);
-    x116y30 = Pixel(116, 30, spacer); x117y30 = Pixel(117, 30, spacer); x118y30 = Pixel(118, 30, spacer); x119y30 = Pixel(119, 30, spacer); x120y30 = Pixel(120, 30, wall);
+    x1y30 = Pixel(1, 30, bottom); x2y30 = Pixel(2, 30, bottom); x3y30 = Pixel(3, 30, bottom); x4y30 = Pixel(4, 30, bottom); x5y30 = Pixel(5, 30, bottom);
+    x6y30 = Pixel(6, 30, bottom); x7y30 = Pixel(7, 30, bottom); x8y30 = Pixel(8, 30, bottom); x9y30 = Pixel(9, 30, bottom); x10y30 = Pixel(10, 30, bottom);
+    x11y30 = Pixel(11, 30, bottom); x12y30 = Pixel(12, 30, bottom); x13y30 = Pixel(13, 30, bottom); x14y30 = Pixel(14, 30, bottom); x15y30 = Pixel(15, 30, bottom);
+    x16y30 = Pixel(16, 30, bottom); x17y30 = Pixel(17, 30, bottom); x18y30 = Pixel(18, 30, bottom); x19y30 = Pixel(19, 30, bottom); x20y30 = Pixel(20, 30, bottom);
+    x21y30 = Pixel(21, 30, bottom); x22y30 = Pixel(22, 30, bottom); x23y30 = Pixel(23, 30, bottom); x24y30 = Pixel(24, 30, bottom); x25y30 = Pixel(25, 30, bottom);
+    x26y30 = Pixel(26, 30, bottom); x27y30 = Pixel(27, 30, bottom); x28y30 = Pixel(28, 30, bottom); x29y30 = Pixel(29, 30, bottom); x30y30 = Pixel(30, 30, bottom);
+    x31y30 = Pixel(31, 30, bottom); x32y30 = Pixel(32, 30, bottom); x33y30 = Pixel(33, 30, bottom); x34y30 = Pixel(34, 30, bottom); x35y30 = Pixel(35, 30, bottom);
+    x36y30 = Pixel(36, 30, bottom); x37y30 = Pixel(37, 30, bottom); x38y30 = Pixel(38, 30, bottom); x39y30 = Pixel(39, 30, bottom); x40y30 = Pixel(40, 30, bottom);
+    x41y30 = Pixel(41, 30, bottom); x42y30 = Pixel(42, 30, bottom); x43y30 = Pixel(43, 30, bottom); x44y30 = Pixel(44, 30, bottom); x45y30 = Pixel(45, 30, bottom);
+    x46y30 = Pixel(46, 30, bottom); x47y30 = Pixel(47, 30, bottom); x48y30 = Pixel(48, 30, bottom); x49y30 = Pixel(49, 40, bottom); x50y30 = Pixel(50, 30, bottom);
+    x51y30 = Pixel(51, 30, bottom); x52y30 = Pixel(52, 30, bottom); x53y30 = Pixel(53, 30, bottom); x54y30 = Pixel(54, 30, bottom); x55y30 = Pixel(55, 30, bottom);
+    x56y30 = Pixel(56, 30, bottom); x57y30 = Pixel(57, 30, bottom); x58y30 = Pixel(58, 30, bottom); x59y30 = Pixel(59, 30, bottom); x60y30 = Pixel(60, 30, bottom);
+    x61y30 = Pixel(61, 30, bottom); x62y30 = Pixel(62, 30, bottom); x63y30 = Pixel(63, 30, bottom); x64y30 = Pixel(64, 30, bottom); x65y30 = Pixel(65, 30, bottom);
+    x66y30 = Pixel(66, 30, bottom); x67y30 = Pixel(67, 30, bottom); x68y30 = Pixel(68, 30, bottom); x69y30 = Pixel(69, 30, bottom); x70y30 = Pixel(70, 30, bottom);
+    x71y30 = Pixel(71, 30, bottom); x72y30 = Pixel(72, 30, bottom); x73y30 = Pixel(73, 30, bottom); x74y30 = Pixel(74, 30, bottom); x75y30 = Pixel(75, 30, bottom);
+    x76y30 = Pixel(76, 30, bottom); x77y30 = Pixel(77, 30, bottom); x78y30 = Pixel(78, 30, bottom); x79y30 = Pixel(79, 30, bottom); x80y30 = Pixel(80, 30, bottom);
+    x81y30 = Pixel(81, 30, bottom); x82y30 = Pixel(82, 30, bottom); x83y30 = Pixel(83, 30, bottom); x84y30 = Pixel(84, 30, bottom); x85y30 = Pixel(85, 30, bottom);
+    x86y30 = Pixel(86, 30, bottom); x87y30 = Pixel(87, 30, bottom); x88y30 = Pixel(88, 30, bottom); x89y30 = Pixel(89, 30, bottom); x90y30 = Pixel(90, 30, bottom);
+    x91y30 = Pixel(91, 30, bottom); x92y30 = Pixel(92, 30, bottom); x93y30 = Pixel(93, 30, bottom); x94y30 = Pixel(94, 30, bottom); x95y30 = Pixel(95, 30, bottom);
+    x96y30 = Pixel(96, 30, bottom); x97y30 = Pixel(97, 30, bottom); x98y30 = Pixel(98, 30, bottom); x99y30 = Pixel(99, 30, bottom); x100y30 = Pixel(100, 30, bottom);
+    x101y30 = Pixel(101, 30, bottom); x102y30 = Pixel(102, 30, bottom); x103y30 = Pixel(103, 30, bottom); x104y30 = Pixel(104, 30, bottom); x105y30 = Pixel(105, 30, bottom);
+    x106y30 = Pixel(106, 30, bottom); x107y30 = Pixel(107, 30, bottom); x108y30 = Pixel(108, 30, bottom); x109y30 = Pixel(109, 30, bottom); x110y30 = Pixel(110, 30, bottom);
+    x111y30 = Pixel(111, 30, bottom); x112y30 = Pixel(112, 30, bottom); x113y30 = Pixel(113, 30, bottom); x114y30 = Pixel(114, 30, bottom); x115y30 = Pixel(115, 30, bottom);
+    x116y30 = Pixel(116, 30, bottom); x117y30 = Pixel(117, 30, bottom); x118y30 = Pixel(118, 30, bottom); x119y30 = Pixel(119, 30, bottom); x120y30 = Pixel(120, 30, bottom);
 
     row1 = [x1y1, x2y1, x3y1, x4y1, x5y1, x6y1, x7y1, x8y1, x9y1, x10y1, x11y1, x12y1, x13y1, x14y1, x15y1, x16y1, x17y1, x18y1, x19y1, x20y1,\
             x21y1, x22y1, x23y1, x24y1, x25y1, x26y1, x27y1, x28y1, x29y1, x30y1, x31y1, x32y1, x33y1, x34y1, x35y1, x36y1, x37y1, x38y1, x39y1,\
@@ -822,7 +823,7 @@ class Pix():
             x81y12, x82y12, x83y12, x84y12, x85y12, x86y12, x87y12, x88y12, x89y12, x90y12, x91y12, x92y12, x93y12, x94y12, x95y12, x96y12, x97y12, x98y12, x99y12, x100y12, \
             x101y12, x102y12, x103y12, x104y12, x105y12, x106y12, x107y12, x108y12, x109y12, x110y12, x111y12, x113y12, x114y12, x115y12, x116y12, x117y12, x118y12, x119y12, x120y12]
     
-    row13 = [x1y13, x2y13, x3y13, x4y13 x5y13, x6y13, x7y13, x8y13, x9y13, x10y13, x11y13, x12y13, x13y13, x14y13, x15y13, x16y13, x17y13, x18y13, x19y13, x20y13, \
+    row13 = [x1y13, x2y13, x3y13, x4y13, x5y13, x6y13, x7y13, x8y13, x9y13, x10y13, x11y13, x12y13, x13y13, x14y13, x15y13, x16y13, x17y13, x18y13, x19y13, x20y13, \
             x21y13, x22y13, x23y13, x24y13, x25y13, x26y13, x27y13, x28y13, x29y13, x30y13, x31y13, x32y13, x33y13, x34y13, x35y13, x36y13, x37y13, x38y13, x39y13, x40y13, \
             x42y13, x43y13, x44y13, x45y13, x46y13, x47y13, x48y13, x49y13, x50y13, x51y13, x52y13, x53y13, x54y13, x55y13, x56y13, x57y13, x58y13, x59y13, x60y13, \
             x61y13, x62y13, x63y13, x64y13, x65y13, x66y13, x67y13, x68y13, x69y13, x70y13, x71y13, x72y13, x73y13, x74y13, x75y13, x76y13, x77y13, x78y13, x79y13, x80y13, \
@@ -835,11 +836,11 @@ class Pix():
             x81y14, x82y14, x83y14, x84y14, x85y14, x86y14, x87y14, x88y14, x89y14, x90y14, x91y14, x92y14, x93y14, x94y14, x95y14, x96y14, x97y14, x98y14, x99y14, x100y14, \
             x101y14, x102y14, x103y14, x104y14, x105y14, x106y14, x107y14, x108y14, x109y14, x110y14, x111y14, x112y14, x113y14, x114y14, x115y14, x116y14, x117y14, x118y14, x119y14, x120y14]
             
-    row15 = [ x1y15, x2y15, x3y15, x4y15, x5y15, x6y15, x7y15, x8y15, x9y15, x10y15, x11y15, x12y15, x13y15, x14y15, x15y15, x16y15, x17y15, x18y15, x19y15, x20y15, \
+    row15 = [x1y15, x2y15, x3y15, x4y15, x5y15, x6y15, x7y15, x8y15, x9y15, x10y15, x11y15, x12y15, x13y15, x14y15, x15y15, x16y15, x17y15, x18y15, x19y15, x20y15, \
             x21y15, x22y15, x23y15, x24y15, x25y15, x26y15, x27y15, x28y15, x29y15, x30y15, x31y15, x32y15, x33y15, x34y15, x35y15, x36y15, x37y15, x38y15, x39y15, x40y15, \
             x41y15, x42y15, x43y15, x44y15, x45y15, x46y15, x47y15, x48y15, x49y15, x50y15, x51y15, x52y15, x53y15, x54y15, x55y15, x56y15, x57y15, x58y15, x59y15, x60y15, \
             x61y15, x62y15, x63y15, x64y15, x65y15, x66y15, x67y15, x68y15, x69y15, x70y15, x71y15, x72y15, x73y15, x74y15, x75y15, x76y15, x77y15, x78y15, x79y15, x80y15, \
-            x81y15, x82y15, x83y15, x84y15, x85y15, x86y15, x87y15, x88y15, x89y15, x90y15, x91y15, x92y15, x93y15, x94y15, x95y15, x96y15, x97y15, x98y15, x99y15, x100y15, \ 
+            x81y15, x82y15, x83y15, x84y15, x85y15, x86y15, x87y15, x88y15, x89y15, x90y15, x91y15, x92y15, x93y15, x94y15, x95y15, x96y15, x97y15, x98y15, x99y15, x100y15, \
             x100y15, x101y15, x102y15, x103y15, x104y15, x105y15, x106y15, x107y15, x108y15, x109y15, x110y15, x111y15, x112y15, x113y15, x114y15, x115y15, x116y15, x117y15, x118y15, x119y15, x120y15 ]
             
     row16 = [ x1y16, x2y16, x3y16, x4y16, x5y16, x6y16, x7y16, x8y16, x9y16, x10y16, x11y16, x12y16, x13y16, x14y16, x15y16, x16y16, x17y16, x18y16, x19y16, x20y16, \
@@ -889,8 +890,8 @@ class Pix():
             x101y22, x102y22, x103y22, x104y22, x105y22, x106y22, x107y22, x108y22, x109y22, x110y22, x111y22, x112y22, x113y22, x114y22, x115y22, x116y22, x117y22, x118y22, x119y22, x120y22 ]
 
     row23 = [ x1y23, x2y23, x3y23, x4y23, x5y23, x6y23, x7y23, x8y23, x9y23, x10y23, x11y23, x12y23, x13y23, x14y23, x15y23, x16y23, x17y23, x18y23, x19y23, x20y23, \
-            x21y23, x22y23, x23y23, x24y23, x25y23, x26y23, x27y23, x28y23, x29y23, x30y23, x31y23, x32y23, x33y23, x34y23, x35y23, x36y23, x37y23, x38y23, x39y23, x40yx23, \
-            x41y23, x42y23, x43y23, x44y23, x45y23, x46y23, xx47y23, x48y23, x49y23, x50y23, x51y23, x52y23, x53y23, x54y23, x55y23, x56y23, x57y23, x58y23, x59y23, x60y23, \
+            x21y23, x22y23, x23y23, x24y23, x25y23, x26y23, x27y23, x28y23, x29y23, x30y23, x31y23, x32y23, x33y23, x34y23, x35y23, x36y23, x37y23, x38y23, x39y23, x40y23, \
+            x41y23, x42y23, x43y23, x44y23, x45y23, x46y23, x47y23, x48y23, x49y23, x50y23, x51y23, x52y23, x53y23, x54y23, x55y23, x56y23, x57y23, x58y23, x59y23, x60y23, \
             x81y23, x82y23, x83y23, x84y23, x85y23, x86y23, x87y23, x88y23, x89y23, x90y23, x91y23, x92y23, x93y23, x94y23, x95y23, x96y23, x97y23, x98y23, x99y23, x100y23, \
             x101y23, x102y23, x103y23, x104y23, x105y23, x106y23, x107y23, x108y23, x109y23, x110y23, x111y23, x112y23, x112y23, x113y23, x114y23, x115y23, x116y23, x117y23, x118y23, x119y23, x120y23 ]
 
@@ -903,12 +904,45 @@ class Pix():
             
     row25 = [ x1y25, x2y25, x3y25, x4y25, x5y25, x6y25, x7y25, x8y25, x9y25, x10y25, x11y25, x12y25, x13y25, x14y25, x15y25, x16y25, x17y25, x18y25, x19y25, x20y25, \
             x21y25, x22y25, x23y25, x24y25, x25y25, x26y25, x27y25, x28y25, x29y25, x30y25, x31y25, x31y25, x33y25, x34y25, x35y25, x36y25, x37y25, x38y25, x39y25, x40y25, \
-            x41y25, x42y25, x43y25, x44y25, x45y25, x46y25, x47y25, x48y25, x49y25, x50y25, x51y25, x52y25, x53y25, x54y25, x55y25, x56y25, x57y25, x582y5, x59y25, x60y25, \
+            x41y25, x42y25, x43y25, x44y25, x45y25, x46y25, x47y25, x48y25, x49y25, x50y25, x51y25, x52y25, x53y25, x54y25, x55y25, x56y25, x57y25, x58y25, x59y25, x60y25, \
             x61y25, x62y25, x63y25, x64y25, x65y25, x66y25, x67y25, x68y25, x69y25, x70y25, x71y25, x72y25, x73y25, x74y25, x75y25, x76y25, x77y25, x78y25, x79y25, x80y25, \
             x81y25, x82y25, x83y25, x84y25, x85y25, x86y25, x87y25, x88y25, x89y25, x90y25, x91y25, x92y25, x93y25, x94y25, x95y25, x96y25, x97y25, x98y25, x99y25, x100y25, \
             x101y25, x102y25, x103y25, x104y25, x105y25, x106y25, x107y25, x108y25, x109y25, x110y25, x111y25, x112y25, x113y25, x114y25, x115y25, x116y25, x117y25, x118y25, x119y25, x120y25 ]
 
-    row26 = [ 
+    row26 = [ x1y26, x2y26, x3y26, x4y26, x5y26, x6y26, x7y26, x8y26, x9y26, x10y26, x11y26, x12y26, x13y26, x14y26, x15y26, x16y26, x17y26, x18y26, x19y26, x20y26, \
+             x21y26, x22y26, x23y26, x24y26, x25y26, x26y26, x27y26, x28y26, x29y26, x30y26, x31y26, x32y26, x33y26, x34y26, x35y26, x36y26, x37y26, x38y26, x39y26, x40y26, \
+             x41y26, x42y26, x43y26, x44y26, x45y26, x46y26, x47y26, x48y26, x49y26, x50y26, x51y26, x52y26, x53y26, x54y26, x55y26, x56y26, x57y26, x58y26, x59y26, x60y26, \
+             x61y26, x62y26, x63y26, x64y26, x65y26, x66y26, x67y26, x68y26, x69y26, x70y26, x71y26, x72y26, x73y26, x74y26, x75y26, x76y26, x77y26, x78y26, x79y26, x80y26, \
+             x81y26, x82y26, x83y26, x84y26, x85y26, x86y26, x87y26, x88y26, x89y26, x90y26, x91y26, x92y26, x93y26, x94y26, x95y26, x96y26, x97y26, x98y26, x99y26, x100y26, \
+             x101y26, x102y26, x103y26, x104y26, x105y26, x106y26, x107y26, x108y26, x109y26, x110y26, x111y26, x112y26, x113y26, x114y26, x115y26, x116y26, x117y26, x118y26, x119y26, x120y26 ]
+
+    row27 = [ x1y27, x2y27, x3y27, x4y27, x5y27, x6y27, x7y27, x8y27, x9y27, x10y27, x11y27, x12y27, x13y27, x14y27, x15y27, x16y27, x17y27, x18y27, x19y27, x20y27, \
+            x21y27, x22y27, x23y27, x24y27, x25y27, x26y27, x27y27, x28y27, x29y27, x30y27, x31y27, x32y27, x33y2, x34y27, x35y27, x36y27, x37y27, x38y27, x39y27, x40y27, \
+            x41y27, x42y27, x43y27, x44y27, x45y27, x46y27, x47y27, x48y27, x49y27, x50y27, x51y27, x52y27, x53y27, x54y27, x55y27, x56y27, x57y27, x58y27, x59y27, x60y27, \
+            x61y27, x62y27, x63y27, x64y27, x64y27, x65y27, x66y27, x67y27, x68y27, x69y27, x70y27, x71y27, x72y27, x73y27, x74y27, x75y27, x76y27, x77y27, x78y27, x79y27, x80y27, \
+            x81y27, x82y27, x83y27, x84y27, x85y27, x86y27, x87y27, x88y27, x89y27, x90y27, x91y27, x92y27, x93y27, x94y27, x95y27, x96y27, x97y27, x98y27, x99y27, x100y27, \
+            x101y27, x102y27, x103y27, x104y27, x105y27, x106y27, x107y27, x108y27, x109y27, x110y27, x111y27, x112y27, x113y27, x114y27, x115y27, x116y27, x117y27, x118y27, x119y27, x120y27 ]
+
+    row28 = [ x1y28, x2y28, x3y28, x4y28, x5y28, x6y28, x7y28, x8y28, x9y28, x10y28, x11y28, x12y28, x13y28, x14y28, x15y28, x16y28, x17y28, x18y28, x19y28, x20y28, \
+             x21y28, x22y28, x23y28, x24y28, x25y28, x26y28, x27y28, x28y28, x29y28, x30y28, x31y28, x32y28, x33y28, x34y28, x35y28, x36y28, x37y28, x38y28, x39y28, x40y28, \
+             x41y28, x42y28, x43y28, x44y28, x45y28, x46y28, x47y28, x48y28, x49y28, x50y28, x51y28, x52y28, x53y28, x54y28, x55y28, x56y29, x57y29, x58y28, x59y28, x60y28, \
+             x61y28, x62y28, x63y28, x64y28, x65y28, x66y28, x67y28, x68y28, x69y28, x70y28, x71y28, x72y28, x73y28, x74y28, x75y28, x76y28, x77y28, x78y28, x79y28, x80y28, \
+             x81y28, x82y28, x83y28, x84y28, x85y28, x86y28, x87y28, x88y28, x89y28, x90y28, x91y29, x92y28, x93y28, x94y28, x95y28, x96y28, x97y28, x98y28, x99y28, x100y28, \
+             x101y28, x102y28, x103y28, x104y28, x105y28, x106y28, x107y28, x108y28, x109y28, x110y28, x111y28, x112y28, x113y28, x114y28, x115y28, x116y28, x117y28, x118y28, x119y28, x120y28 ]
+
+    row29 = [ x1y29, x2y29, x3y29, x4y29, x5y29, x6y29, x7y29, x8y29, x9y29, x10y29, x11y29, x12y29, x13y29, x14y29, x15y29, x16y29, x17y29, x18y29, x19y29, x20y29, \
+             x21y29, x22y29, x23y29, x24y29, x25y29, x26y29, x27y29, x28y29, x29y29, x30y29, x31y29, x32y29, x33y29, x34y29, x35y29, x36y29, x37y29, x38y29, x39y29, x40y29, \
+             x41y29, x42y29, x43y29, x44y29, x45y29, x46y29, x47y29, x48y29, x49y29, x50y29, x51y29, x52y29, x53y29, x54y29, x55y29, x56y29, x57y29, x58y29, x59y29, x60y29, \
+             x61y29, x62y29, x63y29, x64y29, x65y29, x66y29, x67y29, x68y29, x69y29, x70y29, x71y29, x72y29, x73y29, x74y29, x75y29, x76y29, x77y29, x78y29, x79y29, x80y29, \
+             x81y29, x82y29, x83y29, x84y29, x85y29, x86y29, x87y29, x88y29, x89y29, x90y29, x91y29, x92y29, x93y29, x94y29, x95y29, x96y29, x97y29, x98y29, x99y29, x100y29, \
+             x101y29, x102y29, x103y29, x104y29, x105y29, x106y29, x107y29, x108y29, x109y29, x110y29, x111y29, x112y29, x113y29, x114y29, x115y29, x116y29, x117y29, x118y29, x119y29, x120y29 ]
+    
+    row30 = [ x1y30, x2y30, x3y30, x4y30, x5y30, x6y30, x7y30, x8y30, x9y30, x10y30, x11y30, x12y30, x13y30, x14y30, x15y30, x16y30, x17y30, x18y30, x19y30, x20y30, \
+             x21y30, x22y30, x23y30, x24y30, x25y30, x26y30, x27y30, x28y30, x29y30, x30y30, x31y30, x32y30, x33y30, x34y30, x35y30, x36y30, x37y30, x38y30, x39y30, x40y30, \
+             x41y30, x42y30, x43y30, x44y30, x45y30, x46y30, x47y30, x48y30, x49y30, x50y30, x51y30, x52y30, x53y30, x54y30, x55y30, x56y30, x57y30, x58y30, x59y30, x60y30, \
+             x61y30, x62y30, x63y30, x64y30, x65y30, x66y30, x67y30, x68y30, x69y30, x70y30, x71y30, x72y30, x73y30, x74y30, x75y30, x76y30, x77y30, x78y30, x79y30, x80y30, \
+             x81y30, x82y30, x83y30, x84y30, x85y30, x86y30, x87y30, x88y30, x89y30, x90y30, x91y30, x92y30, x93y30, x94y30, x95y30, x96y30, x97y30, x98y30, x99y30, x100y30, \
+             x101y30, x102y30, x103y30, x104y30, x105y30, x106y30, x107y30, x108y30, x109y30, x110y30, x111y30, x112y30, x113y30, x114y30, x115y30, x116y30, x117y30, x118y30, x119y30, x120y30 ]
 
 def printScreen():
     #print(f' raw row 1: {Pix.row1}')
@@ -922,49 +956,196 @@ def printScreen():
     mapped = f'{row1}\n{row2}\n{row3}\n{row4}\n{row5}\n{row6}\n{row7}\n{row8}\n{row9}\n{row10}\n{row11}\n{row12}\n{row13}\n{row14}\n{row15}\n\
             {row16}\n{row17}\n{row18}\n{row19}\n{row20}\n{row21}\n{row22}\n{row23}\n{row24}\n{row25}\n{row26}\n{row27}\n{row28}\n{row29}\n\
             {row30}'
+    
+    user = input('checking printout')
     row1.append(' ')
+    
     for each in Pix.row1:
         val = each.val
         row1.append(val)
     print(f'now as an appended.val list with spacer at the beginning')
     print( *row1, sep = '' )
+    
+    
     for each in Pix.row2:
         val = each.val
         row2.append(val)
+    user = input('checking out')
     print( *row2, sep = '' ) 
+    
+    user = input('checking out')
     for each in Pix.row3:
         val = each.val
         row3.append(val)
+    
+    user = input('checking out')
     print( *row3, sep = '' )
     for each in Pix.row4:
         val = each.val
         row4.append(val)
+    
+    user = input('checking out')
     print( *row4, sep = '' )
     for each in Pix.row5:
         val = each.val
         row5.append(val)
+    
+    user = input('checking out')
     print( *row5, sep = '' )
     for each in Pix.row6:
         val = each.val
         row6.append(val)
+    
+    user = input('checking out')
     print( *row6, sep = '' )
     for each in Pix.row7:
         val = each.val
         row7.append(val)
+    
+    user = input('checking out')
     print( *row7, sep = '' )
     for each in Pix.row8:
         val = each.val
         row8.append(val)
+    
+    user = input('checking out')
     print( *row8, sep = '' )
     for each in Pix.row9:
         val = each.val
         row9.append(val)
+    
+    user = input('checking out')
     print( *row9, sep = '' )
     for each in Pix.row10:
         val = each.val
         row10.append(val)
+    
+    user = input('checking out')
     print( *row10, sep = '' )
     for each in Pix.row11:
         val = each.val
         row11.append(val)
+    
+    user = input('checking out')
     print( *row11, sep = '' )
+    for each in Pix.row12:
+        val = each.val
+        row12.append(val)
+    
+    user = input('checking out')
+    print( *row12, sep = '' )
+    for each in Pix.row13:
+        val = each.val
+        row13.append(val)
+    
+    user = input('checking out')
+    print( *row13, sep = '' )
+    for each in Pix.row14:
+        val = each.val
+        row14.append(val)
+    
+    user = input('checking out')
+    print( *row14, sep = '' )
+    for each in Pix.row15:
+        val = each.val
+        row15.append(val)
+    
+    user = input('checking out')
+    print( *row15, sep = '' )
+    for each in Pix.row16:
+        val = each.val
+        row16.append(val)
+    
+    user = input('checking out')
+    print( *row16, sep = '' )
+    for each in Pix.row17:
+        val = each.val
+        row17.append(val)
+    
+    user = input('checking out')
+    print( *row17, sep = '' )
+    for each in Pix.row18:
+        val = each.val
+        row18.append(val)
+    
+    user = input('checking out')
+    print( *row18, sep = '' )
+    for each in Pix.row19:
+        val = each.val
+        row19.append(val)
+    
+    user = input('checking out')
+    print( *row19, sep = '' )
+    for each in Pix.row19:
+        val = each.val
+        row20.append(val)
+    
+    user = input('checking out')
+    print( *row20, sep = '' )
+    for each in Pix.row20:
+        val = each.val
+        row20.append(val)
+   
+    user = input('checking out')
+    print( *row21, sep = '' )
+    for each in Pix.row21:
+        val = each.val
+        row21.append(val)
+    
+    user = input('checking out')
+    print( *row21, sep = '' )
+    for each in Pix.row22:
+        val = each.val
+        row22.append(val)
+    
+    user = input('checking out')
+    print( *row22, sep = '' )
+    for each in Pix.row23:
+        val = each.val
+        row23.append(val)
+    
+    user = input('checking out')
+    print( *row23, sep = '' )
+    for each in Pix.row24:
+        val = each.val
+        row24.append(val)
+    
+    user = input('checking out')
+    print( *row24, sep = '' )
+    for each in Pix.row25:
+        val = each.val
+        row25.append(val)
+    
+    user = input('checking out')
+    print( *row25, sep = '' )
+    for each in Pix.row26:
+        val = each.val
+        row26.append(val)
+    
+    user = input('checking out')
+    print( *row26, sep = '' )
+    for each in Pix.row27:
+        val = each.val
+        row27.append(val)
+    
+    user = input('checking out')
+    print( *row27, sep = '' )
+    for each in Pix.row28:
+        val = each.val
+        row28.append(val)
+    
+    user = input('checking out')
+    print( *row28, sep = '' )
+    for each in Pix.row29:
+        val = each.val
+        row29.append(val)
+    
+    user = input('checking out')
+    print( *row29, sep = '' )
+    
+    row20.append(' ')
+    for each in Pix.row30:
+        val = each.val
+        row30.append(val)
+    user = input('checking out')
+    print( *row30, sep = '' )
